@@ -6,7 +6,11 @@ The increasing use of Machine Learning models in Cybersecurity applications has 
 
 ## Project Summary
 
-This research project, funded by FCT - Foundation for Science and Technology, is developed by CIIC - Computer Science and Communication Research Centre - Polytechnic of Leiria, and led by [Ivo Bispo](https://github.com/ivoafonsobispo).
+<p align="center">
+  <img src="Assets/CIIC_logo.png" width="1000px"/>
+</p>
+
+This research project, funded by FCT - Foundation for Science and Technology UIDB/04524/2020, is developed by CIIC - Computer Science and Communication Research Centre - Polytechnic of Leiria, and led by [Ivo Bispo](https://github.com/ivoafonsobispo).
 
 # Repository Structure
 
